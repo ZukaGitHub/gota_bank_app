@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 390 262" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g font-family="&quot;Helvetica-Bold&quot;,&quot;Helvetica&quot;" font-size="12" font-weight="700" transform="matrix(1, 0, 0, 1, -42.318295, -34.850357)">
+    <text x="317.549" y="3025.14" transform="matrix(5.35875 0 0 5.35876 -1616.524 -16000.047)" style="white-space: pre;"> </text>
+    <text x="350.309" y="3025.14" transform="matrix(5.35875 0 0 5.35876 -1616.524 -16000.047)" style="white-space: pre;"> </text>
+  </g>
+  <path d="M 66.318 114.779 L 13.193 114.779 L 148.719 16.314 C 161.855 6.77 179.643 6.77 192.779 16.314 L 328.303 114.779 L 275.179 114.779 C 275.179 114.779 211.969 68.854 183.903 48.466 C 176.06 42.766 165.437 42.766 157.593 48.466 C 129.529 68.854 66.319 114.779 66.319 114.779 L 66.318 114.779 Z" style="fill: rgb(51, 187, 207);"/>
+  <path d="M56.013 78H33.441l58.156-42.253a14.947 14.947 0 0 1 17.573 0L167.327 78h-22.572l-38.924-28.279a9.265 9.265 0 0 0-10.895 0L56.013 78Z" transform="matrix(2.35356 0 0 2.35356 -15.113 -69.11)" style="fill: rgb(181, 173, 173);"/>
+  <defs>
+    <style bx:fonts="Abhaya Libre">@import url(https://fonts.googleapis.com/css2?family=Abhaya+Libre%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800&amp;display=swap);</style>
+  </defs>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px;" x="92.105" y="157.138"> </text>
+  <text style="fill: rgb(51, 187, 207); font-family: 'Abhaya Libre'; font-size: 8.7px; white-space: pre;" transform="matrix(2.142402, 0, 0, 3.067274, -210.714828, -368.127655)"><tspan x="168.651" y="156.204">GOTA</tspan><tspan style="fill: rgb(151, 152, 151);">BANK</tspan></text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px;" x="128.2" y="154.026"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.7px;" x="115.753" y="159.316"> </text>
+</svg>
